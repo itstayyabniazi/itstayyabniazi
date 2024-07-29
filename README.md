@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Python Projects](https://github.com/itstayyabniazi/Projects.git)
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Embedded Systems**
 
 - 👯 I’m looking to collaborate on **Frontend Development**
 
